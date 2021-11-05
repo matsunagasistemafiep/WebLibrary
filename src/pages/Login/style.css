@@ -1,0 +1,63 @@
+.intro {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background-color: black;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+}
+
+.botaoLogar{
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 156px;
+    bottom: 104px;
+    width: 85px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.txtCpf{
+    background: transparent;
+    border: none !important;
+    outline: 0;
+    position: absolute;
+    left: 165px;
+    bottom: 388px;
+    width: 1280px;
+    height: 32px;
+    font-size: 18px;
+    color: #666666;
+}
+
+.txtEmail{
+    background: transparent;
+    border: none !important;
+    outline: 0;
+    position: absolute;
+    left: 165px;
+    bottom: 284px;
+    width: 1280px;
+    height: 32px;
+    font-size: 18px;
+    color: #666666;
+}
+
+.txtSenha{
+    background: transparent;
+    border: none !important;
+    outline: 0;
+    position: absolute;
+    left: 165px;
+    bottom: 180px;
+    width: 1280px;
+    height: 32px;
+    font-size: 18px;
+    color: #666666;
+}

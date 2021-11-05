@@ -1,0 +1,161 @@
+.intro {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background-color: black;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+}
+
+.botaoVoltar {
+    background: transparent;
+    border: none !important; 
+    position: absolute;
+    left: 0px;
+    bottom: 640px;
+    width: 300px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.botaoTablet {
+
+}
+
+.txtBusca {
+    background: transparent;
+    border: none !important;
+    outline: 0;
+    position: absolute;
+    left: 370px;
+    bottom: 658px;
+    width: 650px;
+    height: 32px;
+    font-size: 18px;
+    color: #000;
+}
+
+.botaoBusca {
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 1048px;
+    bottom: 655px;
+    width: 66px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.botaoFavoritos {
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 1453px;
+    bottom: 662px;
+    width: 50px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.botaoCarrinho {
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 1370px;        
+    bottom: 662px;
+    width: 50px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.selectOrdem{
+    position: absolute;
+    left: 1260px;        
+    bottom: 485px;
+    width: 120px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.filtroEpico{
+    position: absolute;
+    left: -37px;        
+    bottom: 472px;
+    width: 120px;
+    height: 19px;
+    cursor: pointer;
+}
+
+.filtroCronica{
+    position: absolute;
+    left: -37px;        
+    bottom: 441px;
+    width: 120px;
+    height: 19px;
+    cursor: pointer;
+}
+
+.filtroMonitor{
+    position: absolute;
+    left: -37px;        
+    bottom: 412px;
+    width: 120px;
+    height: 19px;
+    cursor: pointer;
+}
+
+.filtroRevistas{
+    position: absolute;
+    left: -37px;        
+    bottom: 383px;
+    width: 120px;
+    height: 19px;
+    cursor: pointer;
+}
+
+.filtroJornal{
+    position: absolute;
+    left: -37px;        
+    bottom: 354px;
+    width: 120px;
+    height: 19px;
+    cursor: pointer;
+}
+
+.botaoTablet {
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 180px;        
+    bottom: 130px;
+    width: 370px;
+    height: 340px;
+    cursor: pointer;
+}
+
+.botaoNotebook {
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 590px;        
+    bottom: 130px;
+    width: 370px;
+    height: 340px;
+    cursor: pointer;
+}
+
+.botaoProjetor {
+    background: transparent;
+    border: none !important;
+    position: absolute;
+    left: 1010px;        
+    bottom: 130px;
+    width: 370px;
+    height: 340px;
+    cursor: pointer;
+}
